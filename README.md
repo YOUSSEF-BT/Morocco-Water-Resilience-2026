@@ -84,11 +84,9 @@ git clone https://github.com/YOUSSEF-BT/Morocco-Water-Resilience-2026.git
 cd Morocco-Water-Resilience-2026
 Créer un environnement et installer les dépendances principales
 
-bash
 pip install pandas matplotlib prophet requests
 Lancer le notebook
 
-bash
 jupyter notebook Water_Resilience_Morocco_2026.ipynb
 Exécuter les cellules dans l’ordre pour reconstruire les graphiques et les indicateurs.
 ```
