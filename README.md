@@ -93,18 +93,15 @@ jupyter notebook Water_Resilience_Morocco_2026.ipynb
 Exécuter les cellules dans l’ordre pour reconstruire les graphiques et les indicateurs.
 ```
 🛠️ Stack technique
-Python
 
-Pandas
-
-NumPy
-
-Matplotlib
-
-Prophet
-
-API météo (données ouvertes)
+-Python
+-Pandas
+-NumPy
+-Matplotlib
+-Prophet
+-API météo (données ouvertes)
 
 👤 Auteur
+
 Youssef Bouzit
 Étudiant Cycle Ingénieur Data Science – SUP MTI Rabat
