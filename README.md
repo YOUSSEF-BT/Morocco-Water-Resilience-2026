@@ -1,4 +1,4 @@
-# 🌊 Morocco Water Resilience 2026 – Ifrane
+# 🌧️ Morocco Water Resilience 2026 – Ifrane
 
 ## 🇲🇦 Contexte
 
